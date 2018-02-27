@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+covert_channel
 *.exe
 *.out
 *.app
